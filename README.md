@@ -1,2 +1,1 @@
-# Hello-world
-first project
+Hello friends!!
